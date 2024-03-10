@@ -14,10 +14,10 @@ Number of Layers: Both Stacked LSTM and Stacked BiLSTM architectures consist of 
 Year: 2021
 
 Table of Contents
-Introduction
-Data Acquisition
-Data Preparation
-Deep Neural Network Architecture
+1.Introduction
+2.Data Acquisition
+3.Data Preparation
+4.Deep Neural Network Architecture
 4.1 Design the architecture
 4.2 DNN Report
 Training the Model
